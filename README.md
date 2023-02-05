@@ -1,8 +1,8 @@
 <h1 align="center">Hey!! 👋 Harsh Gola , here</h1>
 <h3 align="center">Machine Learning, Artificial Intelligence aspirant</h3>
 
-<img akign= "right" alt= "coding" width= "400" src=" https://miro.medium.com/max/1400/0*M50IPKZz58Fyy178.gif">
- <img akign = "right" alt= "football" width= "200"src= " https://media.tenor.com/m7jhrfvRryEAAAAd/game-football.gif">
+<img align= "right" alt= "coding" width= "400" src=" https://miro.medium.com/max/1400/0*M50IPKZz58Fyy178.gif">
+ <img align = "right" alt= "football" width= "200"src= " https://media.tenor.com/m7jhrfvRryEAAAAd/game-football.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshg89&label=Profile%20views&color=0e75b6&style=flat" alt="harshg89" /> </p>
