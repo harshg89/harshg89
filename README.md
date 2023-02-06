@@ -1,4 +1,4 @@
-![logo](https://github.com/harshg89/harshg89/blob/main/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3AtMjAwLWV5ZS0wMzQyNzAyLmpwZw.webp)
+
 
 <h1 align="center">Hey!! 👋 Harsh Gola , here</h1>
 <h3 align="center">Machine Learning, Artificial Intelligence aspirant</h3>
