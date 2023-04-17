@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hey!! 👋 Harsh Gola , here</h1>
-<h3 align="center">Machine Learning, Artificial Intelligence aspirant</h3>
+<h3 align="center">Machine Learning, Artificial Intelligence Enthusiast</h3>
 
 <img align= "right" alt= "coding" width= "400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
